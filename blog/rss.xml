@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>CREATE SE4AI Blog</title>
-        <link>https://create-se4ai.github.io/blog</link>
-        <description>CREATE SE4AI Blog</description>
+        <title>CREATE SE for AI Blog</title>
+        <link>https://se4ai.org/blog</link>
+        <description>CREATE SE for AI Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://create-se4ai.github.io/blog/welcome</link>
+            <link>https://se4ai.org/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
