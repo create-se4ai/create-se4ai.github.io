@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[0],{9966:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/upcoming-events","name":"upcoming events","count":1,"permalink":"/blog/tags/upcoming-events"}')}}]);

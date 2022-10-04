@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[253],{1528:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/trainee-talks","name":"trainee talks","count":2,"permalink":"/blog/tags/trainee-talks"}')}}]);
